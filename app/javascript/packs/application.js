@@ -13,4 +13,4 @@ require("@rails/activestorage").start()
 // Turbolinks.start()
 // ActiveStorage.start()
 
-require("bootstrap").start()
+require("bootstrap")
